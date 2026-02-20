@@ -18,7 +18,7 @@ The data comes directly from RBI's website and is genuinely messy — merged cel
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture_p.png)
 
 Standard Medallion architecture — Bronze lands raw data, Silver cleans it, Gold builds analytics tables.
 
